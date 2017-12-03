@@ -1,0 +1,120 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Aktualisasi-Blankon.com" resolutions="1x" timestamp="1512308333098">
+  <folder name="css">
+    <file name="site_global.css" crc="4275521114"/>
+    <file name="index.css" crc="314119202" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="samplegif.gif" crc="137610747" seo="true" mt="1393565774000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="lahan1-1.png" crc="3949428360" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bekbiru.png" crc="446573634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bukit.png" crc="469449676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tanah-padi.png" crc="389477830" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bab 2.png" crc="4193809090" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1.svg" crc="4197042764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1_poster_.png" crc="4164446312" ref="index"/>
+    <file name="awan1.png" crc="235522778" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spanduk fgd 2-u192.png" crc="3784371435" ref="index"/>
+    <file name="kalimantan.png" crc="236722488" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="katingan.png" crc="4143890821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mobil2.png" crc="4133499396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pesawat.png" crc="164971941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="luas katingan.png" crc="158850967" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="luas jakarta.png" crc="4219946186" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="penduduk 2.png" crc="4099056037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kalteng1.png" crc="347614977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="traktor.png" crc="4133942886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pdrb-persen.png" crc="3951590306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beras-persen.png" crc="3764841548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="duit3.png" crc="473040822" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="duit2.png" crc="21045560" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="duit1.png" crc="3782862790" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bundarbiru.png" crc="508322224" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kantongduit.png" crc="4057256196" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vas-bawah.png" crc="4020184367" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="padi-kiri.png" crc="263992003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="padi kanan.png" crc="519513526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vas-tengah.png" crc="4053123479" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spanduk fgd 2-u1480.png" crc="3784371435" ref="index"/>
+    <file name="web.png" crc="3761479261" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pesbuk.png" crc="3818287045" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="google.png" crc="4061399698" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="245229136" seo="true" mt="1512306832408" redirect="true"/>
+</manifest>
