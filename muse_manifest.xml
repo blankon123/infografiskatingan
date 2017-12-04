@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Aktualisasi-Blankon.com" resolutions="1x" timestamp="1512368954175">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Aktualisasi-Blankon.com" resolutions="1x" timestamp="1512370987129">
   <folder name="css">
     <file name="site_global.css" crc="4275521114"/>
     <file name="index.css" crc="4189519818" ref="index"/>
