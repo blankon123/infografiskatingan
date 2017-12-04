@@ -16,13 +16,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Infografis Katingan</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4275521114"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4230461034" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4118169591" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
 </script>
   <!-- JS includes -->
-  <script src="https://webfonts.creativecloud.com/lobster:n4:all;permanent-marker:n4:all;bebas-neue:n4:all;roboto:n9:all.js" type="text/javascript"></script>
+  <script src="https://webfonts.creativecloud.com/permanent-marker:n4:all;lobster:n4:all;bebas-neue:n4:all;roboto:n9:all.js" type="text/javascript"></script>
     <!--HTML Widget code-->
   
 		<style>
@@ -57,6 +57,113 @@ position:absolute;
 }
 </style>
 	
+<style>
+.m_scroll_arrows { display: block; width: 5px; height: 5px; -ms-transform: rotate(45deg); /* IE 9 */ -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */ transform: rotate(45deg); border-right: 2px solid #FFFFFF; border-bottom: 2px solid #FFFFFF; margin: 0 0 3px 4px; width: 16px; height: 16px; }
+.unu { margin-top: 1px; }
+.unu, .doi, .trei { -webkit-animation: mouse-scroll 1s infinite; -moz-animation: mouse-scroll 1s infinite; }
+.unu { -webkit-animation-delay: .1s; -moz-animation-delay: .1s; -webkit-animation-direction: alternate; }
+.doi { -webkit-animation-delay: .2s; -moz-animation-delay: .2s; -webkit-animation-direction: alternate; margin-top: -6px; }
+.trei { -webkit-animation-delay: .3s; -moz-animation-delay: .3s; -webkit-animation-direction: alternate; margin-top: -6px; }
+.mouse { height: 42px; width: 24px; border-radius: 14px; transform: none; border: 2px solid #FFFFFF; top: 170px; }
+.wheel { height: 5px; width: 2px; display: block; margin: 5px auto; background: white; position: relative; height: 4px; width: 4px; border: 2px solid #FFFFFF; -webkit-border-radius: 8px; border-radius: 8px; }
+.wheel { -webkit-animation: mouse-wheel 0.6s linear infinite; -moz-animation: mouse-wheel 0.6s linear infinite; }
+ @-webkit-keyframes mouse-wheel {
+ 0% {
+ opacity: 1;
+ -webkit-transform: translateY(0);
+ -ms-transform: translateY(0);
+ transform: translateY(0);
+}
+ 100% {
+ opacity: 0;
+ -webkit-transform: translateY(6px);
+ -ms-transform: translateY(6px);
+ transform: translateY(6px);
+}
+}
+ @-moz-keyframes mouse-wheel {
+ 0% {
+top: 1px;
+}
+ 25% {
+top: 2px;
+}
+ 50% {
+top: 3px;
+}
+ 75% {
+top: 2px;
+}
+ 100% {
+top: 1px;
+}
+}
+ @-webkit-keyframes mouse-scroll {
+ 0% {
+opacity: 0;
+}
+ 50% {
+opacity: .5;
+}
+ 100% {
+opacity: 1;
+}
+}
+@-moz-keyframes mouse-scroll {
+ 0% {
+opacity: 0;
+}
+ 50% {
+opacity: .5;
+}
+ 100% {
+opacity: 1;
+}
+}
+@-o-keyframes mouse-scroll {
+ 0% {
+opacity: 0;
+}
+ 50% {
+opacity: .5;
+}
+ 100% {
+opacity: 1;
+}
+}
+@keyframes mouse-scroll {
+ 0% {
+opacity: 0;
+}
+ 50% {
+opacity: .5;
+}
+ 100% {
+opacity: 1;
+}
+}
+</style>
+ 				<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"/></script>
+
+
+	<style>
+        
+		.ame-scroll-progress-bar{
+				  width: 0%;
+				  float: left;
+				  height: 10px;
+				  z-index:999999999;
+				  max-width: 100%;
+				  background-color:#FF0000;
+				  -webkit-transition: width 500ms ease;
+				  -o-transition: width 500ms ease;
+				  transition: width 500ms ease;
+				  position:fixed;
+				  top:0;
+        }
+	</style>
+			</script>
+		
 <style>
 
 /* Created by Joseph Angelo Todaro of MuseResources.com. Reuse of this code is traceable and strictly prohibited. */
@@ -358,6 +465,40 @@ position:absolute;
  </head>
  <body>
 
+  <!--HTML Widget code-->
+   
+
+<!------------------------------------------------------------------------------
+================================================================================
+--------------------------------------------------------------------------------
+
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||   |||||     ||||   |||     ||      |||   ||||   |  ||  |       |      |
+||||  |  ||||  |   |   |   |  ||  |  |||||||    ||    |  ||  |   |||||  |||||
+|||  |||  |||  ||  |  |||  |     ||    |||||          |  ||  ||    |||    |||
+||         ||  |   |   |   |  ||  |  |||||||  |    |  |  ||  |||||   |  |||||
+|   |||||   |     ||||   |||     ||      |||  ||  ||  |      |       |      |
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|      |  |||  |      |      |      |        |||||    |||||   ||||   ||||   |
+|  ||||||  |  ||  ||  |  |||||  ||  ||||  |||||||  ||  ||   |   ||    ||    |
+|    |||||   |||      |    |||      ||||  |||||||  ||||||  |||  ||          |
+|  ||||||  |  ||  |||||  |||||  |  |||||  |||||||  ||  ||   |   ||  |    |  |
+|      |  |||  |  |||||      |  ||  ||||  |||  |||    |||||   ||||  ||  ||  |
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+This website uses widget(s) from AdobeMuseExpert.com // This widgets are fee
+to use and available for download at: http://adobemuseexpert.com/
+
+--------------------------------------------------------------------------------
+================================================================================
+------------------------------------------------------------------------------->  
+   			
+                <div class="ame-scroll-progress-bar"></div>
+            
+		
+  
   <div class="clearfix" id="page"><!-- group -->
    <div class="clearfix grpelem" id="u1315-36"><!-- content -->
     <p>Data Distribusi</p>
@@ -402,9 +543,6 @@ position:absolute;
       <img class="svg" id="u224" src="images/untitled-1.svg?crc=4197042764" width="1400" height="1400" alt="" data-mu-svgfallback="images/untitled-1_poster_.png?crc=4164446312"/>
      </div>
      <div class="museBGSize awan2 grpelem" id="u487"><!-- content --></div>
-     <div class="clearfix grpelem" id="u215-4"><!-- content -->
-      <p>Copyright</p>
-     </div>
      <div class="museBGSize awan grpelem" id="u470"><!-- content --></div>
      <div class="shadow grpelem" id="u132"><!-- simple frame --></div>
      <div class="size_fixed grpelem" id="u219"><!-- custom html -->
@@ -431,6 +569,24 @@ position:absolute;
 </svg>
 
      </div>
+     <div class="size_fixed grpelem" id="u2615"><!-- custom html -->
+      
+<!-- This Adobe Muse widget was created by the team at MuseFree.com -->
+<div class="mouse">
+			<div class="wheel"></div>
+		</div>
+		<div>
+			<span class="m_scroll_arrows unu"></span>
+			<span class="m_scroll_arrows doi"></span>
+			<span class="m_scroll_arrows trei"></span>
+		</div>
+
+     </div>
+     <div class="size_fixed grpelem" id="u2620"><!-- custom html -->
+      
+
+		
+     </div>
     </div>
     <div class="browser_width colelem" id="u1189-bw">
      <div id="u1189"><!-- simple frame --></div>
@@ -443,9 +599,6 @@ position:absolute;
     </div>
     <div class="clearfix mse_pre_init" id="u212-4"><!-- content -->
      <p>infografis</p>
-    </div>
-    <div class="clearfix mse_pre_init" id="u246-4"><!-- content -->
-     <p>scroll for more...</p>
     </div>
     <div class="PamphletWidget clearfix mse_pre_init" id="pamphletu146"><!-- none box -->
      <div class="ThumbGroup clearfix grpelem" id="u153"><!-- none box -->
@@ -764,7 +917,6 @@ $('#u1553').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,69476]}
 $('#u431').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,3065.8]},{"speed":[0,0],"in":[3065.8,Infinity]}]);/* scroll effect */
 $('#u235-4').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,107.6]},{"speed":[1,1.6],"in":[107.6,Infinity]}]);/* scroll effect */
 $('#u212-4').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-48.4]},{"speed":[0,1.6],"in":[-48.4,Infinity]}]);/* scroll effect */
-$('#u246-4').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,315.6]},{"speed":[1,1.6],"in":[315.6,Infinity]}]);/* scroll effect */
 $('#pamphletu146').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-49.7]},{"speed":[-6,1],"in":[-49.7,Infinity]}]);/* scroll effect */
 $('#u365-4').registerPositionScrollEffect([{"speed":[3,-4],"in":[-Infinity,1405.8]},{"speed":[0,0],"in":[1405.8,Infinity]}]);/* scroll effect */
 $('#u388-4').registerPositionScrollEffect([{"speed":[3,-4],"in":[-Infinity,1613.35]},{"speed":[0,0],"in":[1613.35,Infinity]}]);/* scroll effect */
@@ -861,6 +1013,19 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
   <!--HTML Widget code-->
   
 	
+		<script>
+		$(window).load(function(){
+  $(window).scroll(function() {
+    var wintop = $(window).scrollTop(), docheight = $('body').height(), winheight = $(window).height();
+    //console.log(wintop);
+    var totalScroll = (wintop/(docheight-winheight))*100;
+    //console.log("total scroll" + totalScroll);
+    $(".ame-scroll-progress-bar").css("width",totalScroll+"%");
+  });
+
+});
+		</script>
+		
 
 <script type="text/javascript">
 // t: current time, b: begInnIng value, c: change In value, d: duration
