@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://Aktualisasi-Blankon.com/index.html</loc>
-    <lastmod>2017-12-03</lastmod>
+    <lastmod>2017-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -86,11 +86,5 @@
     <image:image>
       <image:loc>http://Aktualisasi-Blankon.com/images/google.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://Aktualisasi-Blankon.com/assets/samplegif.gif</loc>
-    <lastmod>2014-02-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
