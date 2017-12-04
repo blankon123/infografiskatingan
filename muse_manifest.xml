@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Aktualisasi-Blankon.com" resolutions="1x" timestamp="1512371745090">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Aktualisasi-Blankon.com" resolutions="1x" timestamp="1512377480931">
   <folder name="css">
     <file name="site_global.css" crc="4275521114"/>
-    <file name="index.css" crc="85380531" ref="index"/>
+    <file name="index.css" crc="4230461034" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -22,9 +22,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="bukit.png" crc="469449676" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="tanah-padi.png" crc="389477830" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="untitled-1.svg" crc="4197042764" seo="true" ref="index">
@@ -106,6 +103,9 @@
     <file name="google.png" crc="4061399698" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="tanah-padi.svg" crc="3921144067" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="441639862" seo="true" mt="1512371706719" redirect="true"/>
+  <file name="index.html" crc="3953169651" seo="true" mt="1512377392974" redirect="true"/>
 </manifest>

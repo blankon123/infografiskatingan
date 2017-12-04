@@ -12,9 +12,6 @@
       <image:loc>http://Aktualisasi-Blankon.com/images/bukit.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Aktualisasi-Blankon.com/images/tanah-padi.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://Aktualisasi-Blankon.com/images/untitled-1.svg</image:loc>
     </image:image>
     <image:image>
@@ -82,6 +79,9 @@
     </image:image>
     <image:image>
       <image:loc>http://Aktualisasi-Blankon.com/images/google.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Aktualisasi-Blankon.com/images/tanah-padi.svg</image:loc>
     </image:image>
   </url>
 </urlset>
