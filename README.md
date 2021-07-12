@@ -1,2 +1,2 @@
-# blankon123.github.io
-Profile-page
+# infografiskatingan.github.io
+Infografis dinamis yang memudahkan publik untuk memahami kondisi sosial ekonomi Kab.Katingan
